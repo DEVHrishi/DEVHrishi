@@ -17,6 +17,8 @@ Full-stack Developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DEVHrishi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVHrishi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![Metrics](https://metrics.lecoq.io/DEVHrishi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DEVHrishi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -27,6 +29,8 @@ Full-stack Developer
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/DEVhrishi) 
+  
+
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
