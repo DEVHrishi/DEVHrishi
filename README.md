@@ -1,12 +1,6 @@
 <a href="https://imgur.com/cI6PPHK"><img src="https://i.imgur.com/cI6PPHK.gif" title="source: imgur.com" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhrishi&label=Profile%20views&color=0e75b6&style=flat" alt="devhrishi" /> </p>
 
-# 💫 About Me:
-Full-stack Developer
-- 👨‍💻 All of my projects are available at [https://portfolio-hrishikesh-roy.netlify.app/](https://portfolio-hrishikesh-roy.netlify.app/)
-- 📄 Know about my experiences [https://drive.google.com/file/d/16EvKf570Rg9WWQpkAZ5p9WdWjvINRiPn/view?usp=sharing](https://drive.google.com/file/d/16EvKf570Rg9WWQpkAZ5p9WdWjvINRiPn/view?usp=sharing)
-- 📫 How to reach me **royhrishikesh408@gmail.com**
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/fUAVbdGmpe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrishikesh_roy71) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-roy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hrishik97724425) 
 
