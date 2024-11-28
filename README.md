@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
   <li>I'm <a href = "https://ashishps.com/">Hrishikesh</a>, a Software Engineer having 1+ years of experience working in domains like full stack and backend engineering. </li>
-  <li>Checkout my GitHub repositories on <a href = "https://github.com/DEVHrishi/DSA--PYTHON--SQL">Data Structure and Algorithm</a>.</li>
+  <li>Checkout my GitHub repositories on <a href = "https://github.com/DEVHrishi/DSA--PYTHON--SQL">Data Structure and Algorithm</a>, <a href='https://github.com/DEVHrishi/Full-Stack-Projects'>Full Stack Projects</a>.</li>
   <li>Checkout my <a href = "https://leetcode.com/DEVHrishi/">LeetCode</a> profile.
   <li>Follow me on <a href="https://www.linkedin.com/in/Hrishikesh-roy/">LinkedIn</a> to stay connected.</li>
 </ul>
