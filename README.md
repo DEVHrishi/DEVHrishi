@@ -1,12 +1,23 @@
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
-<ul>
-  <li>I'm <a href = "https://ashishps.com/">Hrishikesh</a>, a Software Engineer having 3+ years of experience working in domains like full stack engineering. </li>
-  <li>Checkout my GitHub repositories on <a href = "https://github.com/DEVHrishi/DSA--PYTHON--SQL">Data Structure and Algorithm</a>, <a href='https://github.com/DEVHrishi/Full-Stack-Projects'>Full Stack Projects</a>.</li>
-  <li>Checkout my <a href = "https://leetcode.com/DEVHrishi/">LeetCode</a> profile.
-  <li>Follow me on <a href="https://www.linkedin.com/in/Hrishikesh-roy/">LinkedIn</a> to stay connected.</li>
-</ul>
+# Hi, I'm Hrishikesh Roy 👋
 
-&nbsp;![](https://komarev.com/ghpvc/?username=DEVHrishi&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DEVHrishi&show_icons=true&locale=en" alt="DEVHrishi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVHrishi&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
+**Full-Stack Software Engineer | Java · Spring Boot · React · Distributed Systems**
+
+I'm a software engineer with 3+ years of experience building full-stack applications and backend services. My work and learning interests span API design, scalable systems, databases, messaging, and modern frontend development.
+
+### What I work with
+- **Backend:** Java, Spring Boot, Vert.x, REST APIs
+- **Frontend:** React, Angular, TypeScript
+- **Data & Messaging:** PostgreSQL, SingleStore
+- **Infrastructure:** Docker, Kubernetes, Azure DevOps
+- **Exploring:** AI/ML and practical AI-powered applications
+
+### Featured Work
+- **Full-Stack Applications** — end-to-end application development
+- **Backend & System Design** — API design, object-oriented design, and distributed systems
+- **AI/ML Experiments** — a growing collection of practical learning projects
+
+### Find me elsewhere
+- [LinkedIn](https://www.linkedin.com/in/Hrishikesh-roy/)
+- [LeetCode](https://leetcode.com/u/DEVHrishi/)
+
+I'm interested in building reliable software, understanding systems deeply, and continuously improving my engineering craft.
